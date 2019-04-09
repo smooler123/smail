@@ -1,0 +1,94 @@
+<html>
+    <head>
+        <title>virtex</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css">
+
+        
+    </head>
+    <body >
+    <center>
+        <div><h1>MI PRESENTACION</h1></div>
+    </center>
+    <center>
+        <div>BIENVENIDO</div>
+    </center>
+    
+    <style>
+        
+body{
+	background-color:blue;
+        
+}
+</style>
+    
+  
+   <img src="img/12.jpg" align="right">
+ 
+   
+<div class="row">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="..." alt="...">
+      <div class="caption">
+        <h3>pagina noticias</h3>
+        <p>...</p>
+        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    <div class="row">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="..." alt="...">
+      <div class="caption">
+        <h3>pagina videojuegos</h3>
+        <p>...</p>
+        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    <div class="row">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="..." alt="...">
+      <div class="caption">
+        <h3>formulario de registro</h3>
+        <p>...</p>
+        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    <div class="row">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="..." alt="...">
+      <div class="caption">
+        <h3>certificado</h3>
+        <p>...</p>
+        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+    
+    
+    
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+ <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+   
+    </body>
+</html>
+
+
